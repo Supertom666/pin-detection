@@ -33,6 +33,6 @@ The project includes GUI for viewing results.
 
 ![](result/binaryImage1.jpg)
 
-### output pin detection
+### Output pin detection
 
 ![](result/output_img.jpg)
