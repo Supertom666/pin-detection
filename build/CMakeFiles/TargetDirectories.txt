@@ -1,3 +1,0 @@
-/home/tom/code/edge_detection/build/CMakeFiles/edge_demo.dir
-/home/tom/code/edge_detection/build/CMakeFiles/edit_cache.dir
-/home/tom/code/edge_detection/build/CMakeFiles/rebuild_cache.dir
