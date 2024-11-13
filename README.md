@@ -1,18 +1,15 @@
-# Realsese Edge detection
 
 # Requisite
 my encironment
 Opencv 3.4.0
 realsense SDK 2.55.1   d455
 
-
-#run
-
+# Run
 mkdir build
 cd build
 cmake ..
 make 
-
+# PIN detection
 C++ implementation of Pin detection algorithms.
 
 Currently available algorithms:
