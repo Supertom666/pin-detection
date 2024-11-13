@@ -16,9 +16,10 @@ Currently available algorithms:
 
  - Enhance lightness (light average value > 14 (set by yourself) )
  - setting ROI (xy direction)
- - Image Binarization & threshold 
+ - Image Binarization & threshold
+ - filter area large block
  - Image erode & dilate
- - Scharr operator
+
 
 The project includes GUI for viewing results.
 
