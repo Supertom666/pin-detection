@@ -21,8 +21,6 @@ Currently available algorithms:
  - Image erode & dilate
 
 
-The project includes GUI for viewing results.
-
 ## Examples
 
 ### Original image
