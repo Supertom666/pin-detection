@@ -1,6 +1,6 @@
 
 # Requisite
-my encironment
+my environment
 Opencv 3.4.0
 realsense SDK 2.55.1   d455
 
